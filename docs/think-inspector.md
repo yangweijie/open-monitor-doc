@@ -1,3 +1,7 @@
+---
+navbar:true
+---
+
 # think-inspector
 
 ## 仓库
