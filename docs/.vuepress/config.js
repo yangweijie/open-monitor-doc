@@ -9,5 +9,7 @@ module.exports = {
   themeConfig: {
     logo: 'https://vuejs.org/images/logo.png',
   },
+
+  base: "/<REPO>/",
   plugins: ['@vuepress/back-to-top', '@vuepress/nprogress']
 }
