@@ -10,6 +10,12 @@ module.exports = {
     logo: 'https://vuejs.org/images/logo.png',
   },
 
+  nav: [
+    { text: '首页', link: '/' },
+    { text: '采集器', link: '/think-inspector' },
+    { text: '监控面版', link: '/open-monitor' },
+  ]
+
   // base: "/<REPO>/",
   plugins: ['@vuepress/back-to-top', '@vuepress/nprogress']
 }
