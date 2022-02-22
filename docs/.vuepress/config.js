@@ -10,6 +10,6 @@ module.exports = {
     logo: 'https://vuejs.org/images/logo.png',
   },
 
-  base: "/<REPO>/",
+  // base: "/<REPO>/",
   plugins: ['@vuepress/back-to-top', '@vuepress/nprogress']
 }
